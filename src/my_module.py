@@ -1,3 +1,3 @@
-def get_cheaper_hotel(number):   #DO NOT change the function's name
-    cheaper_hotel = "cheaper_hotel_name"
-    return cheaper_hotel
+def get_cheapest_hotel(number):   #DO NOT change the function's name
+    cheapest_hotel = "cheapest_hotel_name"
+    return cheapest_hotel
