@@ -19,7 +19,7 @@ A hotel chain in Miami would like to offer an online reservation service. The ch
    are respectively R$150 and R$40 for regular customers and loyalty
    program participants.
 
-Write a code to find the cheapest hotel. The input're going to be a sequence of dates for each customer member or not of the loyalty program.
+Write a code to find the cheapest hotel. The input are going to be a sequence of dates for each customer member or not of the loyalty program.
 
 ---
 
